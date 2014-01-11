@@ -15,5 +15,5 @@ This is a theme for Jekyll which inspired by Instapaper, forked from [Herring Co
 ### Setup
 
 1. Install Jekyll
-2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
+2. Fork or download this theme repo
 3. Edit the `_config.yml` file
